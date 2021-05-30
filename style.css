@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: lightsteelblue;
+}
+div {
+    margin-top: 15px;
+}
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+.section-style{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#image1{
+    width: 300px;
+    height: 300px;
+}
+#image2{
+    width: 300px;
+    height: 300px;
+}
+#image3{
+    width: 300px;
+    height: 300px;
+}
+#image4{
+    width: 300px;
+    height: 300px;
+}
